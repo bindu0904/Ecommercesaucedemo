@@ -1,0 +1,130 @@
+2024-08-05 17:14:59,997 [main] [INFO ] rootLogger:46:Commands.java - Entered the value Mobiles in By.name: field-keywords
+2024-08-05 17:15:04,760 [main] [INFO ] rootLogger:31:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-05 17:15:04,884 [main] [INFO ] rootLogger:46:Commands.java - Entered the value iphone in By.name: field-keywords
+2024-08-05 17:15:06,258 [main] [INFO ] rootLogger:31:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-05 17:15:09,304 [main] [INFO ] rootLogger:31:Commands.java - Click is passed on: By.xpath: //span[@class='a-button-inner']//button[@id='a-autoid-1-announce']
+2024-08-05 17:15:12,357 [main] [INFO ] rootLogger:58:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 14 (128 GB) - Blue
+2024-08-05 17:15:13,782 [main] [INFO ] rootLogger:31:Commands.java - Click is passed on: By.xpath: //span[@class='nav-cart-icon nav-sprite']
+2024-08-05 17:15:16,806 [main] [INFO ] rootLogger:58:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 14 (128 GB) - Blue
+2024-08-05 17:15:16,808 [main] [INFO ] rootLogger:70:Commands.java - Validation is successfull between : Apple iPhone 14 (128 GB) - BlueandApple iPhone 14 (128 GB) - Blue
+2024-08-08 13:46:50,833 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Mobiles in By.name: field-keywords
+2024-08-08 13:46:56,107 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:46:56,571 [main] [INFO ] rootLogger:53:Commands.java - Entered the value iphone in By.name: field-keywords
+2024-08-08 13:46:57,955 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:47:01,035 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='a-button-inner']//button[@id='a-autoid-1-announce']
+2024-08-08 13:47:04,118 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:47:05,406 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='nav-cart-icon nav-sprite']
+2024-08-08 13:47:08,498 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:47:08,501 [main] [INFO ] rootLogger:93:Commands.java - Validation is successfull between : Apple iPhone 13 (128GB) - StarlightandApple iPhone 13 (128GB) - Starlight
+2024-08-08 13:48:37,883 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Mobiles in By.name: field-keywords
+2024-08-08 13:48:43,001 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:48:43,229 [main] [INFO ] rootLogger:53:Commands.java - Entered the value iphone in By.name: field-keywords
+2024-08-08 13:48:44,752 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:48:47,862 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='a-button-inner']//button[@id='a-autoid-1-announce']
+2024-08-08 13:48:50,950 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:48:52,053 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='nav-cart-icon nav-sprite']
+2024-08-08 13:48:55,114 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:48:55,131 [main] [INFO ] rootLogger:93:Commands.java - Validation is successfull between : Apple iPhone 13 (128GB) - StarlightandApple iPhone 13 (128GB) - Starlight
+2024-08-08 13:52:36,382 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Mobiles in By.name: field-keywords
+2024-08-08 13:52:41,298 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:52:41,567 [main] [INFO ] rootLogger:53:Commands.java - Entered the value iphone in By.name: field-keywords
+2024-08-08 13:52:43,268 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:52:46,376 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='a-button-inner']//button[@id='a-autoid-1-announce']
+2024-08-08 13:52:49,447 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:52:50,534 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='nav-cart-icon nav-sprite']
+2024-08-08 13:52:53,587 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:52:53,587 [main] [INFO ] rootLogger:93:Commands.java - Validation is successfull between : Apple iPhone 13 (128GB) - StarlightandApple iPhone 13 (128GB) - Starlight
+2024-08-08 13:55:59,378 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Mobiles in By.name: field-keywords
+2024-08-08 13:56:04,344 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:56:04,589 [main] [INFO ] rootLogger:53:Commands.java - Entered the value iphone in By.name: field-keywords
+2024-08-08 13:56:07,117 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 13:56:10,211 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='a-button-inner']//button[@id='a-autoid-1-announce']
+2024-08-08 13:56:13,354 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:56:14,768 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='nav-cart-icon nav-sprite']
+2024-08-08 13:56:17,834 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 13:56:17,836 [main] [INFO ] rootLogger:93:Commands.java - Validation is successfull between : Apple iPhone 13 (128GB) - StarlightandApple iPhone 13 (128GB) - Starlight
+2024-08-08 14:06:09,886 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Mobiles in By.name: field-keywords
+2024-08-08 14:06:15,273 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 14:06:15,884 [main] [INFO ] rootLogger:53:Commands.java - Entered the value iphone in By.name: field-keywords
+2024-08-08 14:06:17,394 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.id: nav-search-submit-button
+2024-08-08 14:06:20,794 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='a-button-inner']//button[@id='a-autoid-1-announce']
+2024-08-08 14:06:23,889 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 14:06:25,710 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //span[@class='nav-cart-icon nav-sprite']
+2024-08-08 14:06:28,901 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:Apple iPhone 13 (128GB) - Starlight
+2024-08-08 14:06:28,917 [main] [INFO ] rootLogger:93:Commands.java - Validation is successfull between : Apple iPhone 13 (128GB) - StarlightandApple iPhone 13 (128GB) - Starlight
+2024-08-08 16:44:34,040 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 16:44:34,152 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='shopping_cart_container']
+2024-08-08 16:44:54,264 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 16:45:14,362 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text Shanvi inBy.id: first-name
+2024-08-08 16:45:34,494 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text bindu inBy.id: last-name
+2024-08-08 16:45:54,662 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text 56000 inBy.id: postal-code
+2024-08-08 16:46:04,977 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //input[@value='CONTINUE']
+2024-08-08 16:46:04,999 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 16:48:02,275 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 16:48:02,390 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='shopping_cart_container']
+2024-08-08 16:48:22,484 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 16:48:42,588 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text Shanvi inBy.id: first-name
+2024-08-08 16:49:02,736 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text bindu inBy.id: last-name
+2024-08-08 16:49:22,832 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text 56000 inBy.id: postal-code
+2024-08-08 16:49:42,939 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //input[@value='CONTINUE']
+2024-08-08 16:50:03,160 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 16:53:08,050 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 16:53:08,091 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='header_container']//div[@id='shopping_cart_container']
+2024-08-08 16:53:28,193 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 16:53:48,334 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text Shanvi inBy.id: first-name
+2024-08-08 16:54:08,417 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text bindu inBy.id: last-name
+2024-08-08 16:54:28,495 [main] [ERROR] rootLogger:55:Commands.java - Failed at entering text 56000 inBy.id: postal-code
+2024-08-08 16:54:48,587 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //input[@value='CONTINUE']
+2024-08-08 16:55:08,711 [main] [ERROR] rootLogger:39:Commands.java - Click is failed on :  By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 16:56:29,807 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 16:56:29,850 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='header_container']//div[@id='shopping_cart_container']
+2024-08-08 16:56:36,217 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 16:56:36,450 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Shanvi in By.id: first-name
+2024-08-08 16:56:36,644 [main] [INFO ] rootLogger:53:Commands.java - Entered the value bindu in By.id: last-name
+2024-08-08 16:56:36,793 [main] [INFO ] rootLogger:53:Commands.java - Entered the value 56000 in By.id: postal-code
+2024-08-08 16:56:37,168 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //input[@value='CONTINUE']
+2024-08-08 16:56:37,735 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 17:00:42,277 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 17:00:42,377 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='header_container']//div[@id='shopping_cart_container']//a
+2024-08-08 17:00:42,482 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 17:00:42,594 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Shanvi in By.id: first-name
+2024-08-08 17:00:42,679 [main] [INFO ] rootLogger:53:Commands.java - Entered the value bindu in By.id: last-name
+2024-08-08 17:00:42,768 [main] [INFO ] rootLogger:53:Commands.java - Entered the value 56000 in By.id: postal-code
+2024-08-08 17:00:42,857 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //input[@value='CONTINUE']
+2024-08-08 17:00:42,982 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 17:00:52,522 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 17:00:52,612 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='header_container']//div[@id='shopping_cart_container']//a
+2024-08-08 17:00:52,699 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 17:00:52,816 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Shanvi in By.id: first-name
+2024-08-08 17:00:52,916 [main] [INFO ] rootLogger:53:Commands.java - Entered the value bindu in By.id: last-name
+2024-08-08 17:00:53,005 [main] [INFO ] rootLogger:53:Commands.java - Entered the value 56000 in By.id: postal-code
+2024-08-08 17:00:53,100 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //input[@value='CONTINUE']
+2024-08-08 17:00:53,198 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 17:01:42,054 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 17:01:42,141 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='header_container']//div[@id='shopping_cart_container']//a
+2024-08-08 17:01:42,230 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 17:01:42,341 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Shanvi in By.id: first-name
+2024-08-08 17:01:42,430 [main] [INFO ] rootLogger:53:Commands.java - Entered the value bindu in By.id: last-name
+2024-08-08 17:01:42,514 [main] [INFO ] rootLogger:53:Commands.java - Entered the value 56000 in By.id: postal-code
+2024-08-08 17:01:42,601 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //input[@value='CONTINUE']
+2024-08-08 17:01:42,705 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 17:09:11,971 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 17:09:12,396 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='header_container']//div[@id='shopping_cart_container']//a
+2024-08-08 17:09:12,825 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 17:09:12,963 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Shanvi in By.id: first-name
+2024-08-08 17:09:13,062 [main] [INFO ] rootLogger:53:Commands.java - Entered the value bindu in By.id: last-name
+2024-08-08 17:09:13,158 [main] [INFO ] rootLogger:53:Commands.java - Entered the value 56000 in By.id: postal-code
+2024-08-08 17:09:13,558 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //input[@value='CONTINUE']
+2024-08-08 17:09:14,311 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 17:09:14,353 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:THANK YOU FOR YOUR ORDER
+Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2024-08-08 17:09:39,082 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: (//button[@class='btn_primary btn_inventory'])[1]
+2024-08-08 17:09:39,188 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@id='header_container']//div[@id='shopping_cart_container']//a
+2024-08-08 17:09:39,282 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action checkout_button']
+2024-08-08 17:09:39,391 [main] [INFO ] rootLogger:53:Commands.java - Entered the value Shanvi in By.id: first-name
+2024-08-08 17:09:39,484 [main] [INFO ] rootLogger:53:Commands.java - Entered the value bindu in By.id: last-name
+2024-08-08 17:09:39,578 [main] [INFO ] rootLogger:53:Commands.java - Entered the value 56000 in By.id: postal-code
+2024-08-08 17:09:39,660 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //input[@value='CONTINUE']
+2024-08-08 17:09:39,769 [main] [INFO ] rootLogger:36:Commands.java - Click is passed on: By.xpath: //div[@class='cart_footer']//a[@class='btn_action cart_button']
+2024-08-08 17:09:39,815 [main] [INFO ] rootLogger:80:Commands.java - Get the text message from the application UI.The value is:THANK YOU FOR YOUR ORDER
+Your order has been dispatched, and will arrive just as fast as the pony can get there!
